@@ -28,6 +28,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```  
 
 ## Profile Page
-![Profile-TS](.\Images\profilescreenshot.png)
+![Profile-TS](./Images/profilescreenshot.png)
 
 - - -
